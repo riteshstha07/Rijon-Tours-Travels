@@ -1,0 +1,89 @@
+body{
+background-color: black;
+}
+
+
+
+#WLC{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 60px;
+}
+
+
+
+#RTS2{
+    color:rgb(207, 84, 8);
+    font-size: 30px;
+    text-decoration: underline double;
+}
+
+
+#RTS3{
+    color:wheat;
+    font-size: 30px;
+}
+
+#Exp{
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+ .box {
+      width: 410px;      
+      padding: 20px;       
+      border: 2px solid rgb(207, 84, 8);
+      border-radius: 8px;     
+      background-color: black; 
+      text-align: center;     
+      font-size: 18px;
+ }
+
+
+
+#Founder{
+    color: rgb(207, 84, 8);
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+#rajesh{
+    color: rgb(38, 0, 255);
+    text-align: center;
+    font-size: 30px;
+}
+
+
+#owner{
+    color: orangered;
+    font-size: 20px;
+    text-align: center;
+}
+
+#prv{
+    color:coral;
+    text-decoration:underline double;
+}
+
+
+#bus{
+    color: red;
+font-size: 30px;
+text-align: center;
+text-decoration: underline;
+}
+
+#Scorpio{
+    color: red;
+font-size: 30px;
+text-align: center;
+text-decoration: underline;
+}
+
+#Contact{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
