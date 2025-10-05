@@ -87,3 +87,100 @@ text-decoration: underline;
     font-size: 20px;
     text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+form{
+    margin:0 2rem;
+}
+
+.form-title{
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 1.3rem;
+    margin-bottom: 0.4rem;
+}
+
+input{
+    color: inherit;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid wheat;
+    padding-left: 1.5rem;
+    font-size: 15px;
+
+}
+
+
+.input-group{
+    padding: 1% 0;
+position: relative;
+}
+
+
+.input-group i{ 
+    position: absolute;
+    color: wheat;
+
+}
+
+.input:focus{
+background-color: transparent;
+outline: transparent;
+border-bottom: 2px;
+
+}
+
+input::placeholder{
+    color: transparent;
+}
+
+label{
+    color: aliceblue;
+    position: relative;
+    left: 1.2em;
+top: -1.3em;
+cursor: auto;
+transition: 0.3s ease all;
+}
+
+.recover{
+    text-align: right;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.recover a{
+    text-decoration: none;
+    color: rgb(38, 0, 255);   
+}
+
+.recover a:hover{
+    color: blue;
+    text-decoration: underline;
+
+} 
+
+.btn{
+    font-size: 1.1rem;
+    padding: 8px 0;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    width: 100%;
+    background-color: aqua;
+}
+
+.btn:hover{
+    background-color: white;
+    
+}
